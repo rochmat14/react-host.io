@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rochmat14/react-host/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rochmat14/react-host/static/js/main.20664e22.chunk.js",
+    "main.js.map": "/rochmat14/react-host/static/js/main.20664e22.chunk.js.map",
+    "runtime-main.js": "/rochmat14/react-host/static/js/runtime-main.ba27db06.js",
+    "runtime-main.js.map": "/rochmat14/react-host/static/js/runtime-main.ba27db06.js.map",
+    "static/js/2.e66067ab.chunk.js": "/rochmat14/react-host/static/js/2.e66067ab.chunk.js",
+    "static/js/2.e66067ab.chunk.js.map": "/rochmat14/react-host/static/js/2.e66067ab.chunk.js.map",
+    "index.html": "/rochmat14/react-host/index.html",
+    "precache-manifest.5557c718617a19c6dee66af6ec6efee1.js": "/rochmat14/react-host/precache-manifest.5557c718617a19c6dee66af6ec6efee1.js",
+    "service-worker.js": "/rochmat14/react-host/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rochmat14/react-host/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e66067ab.chunk.js.LICENSE.txt": "/rochmat14/react-host/static/js/2.e66067ab.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rochmat14/react-host/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba27db06.js",
+    "static/js/2.e66067ab.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.20664e22.chunk.js"
+  ]
+}
